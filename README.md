@@ -26,3 +26,8 @@ Tracks score and question index
 1. **Clone the repo**
    ```bash
    git clone https://github.com/yourusername/simple-quiz.git
+
+
+
+## Sample Video
+https://github.com/kajalrajput18/Simple-Quiz/blob/8c61c8453b9b2056b714a76db5027ee0c4e2a34f/SampleVideo.mp4
