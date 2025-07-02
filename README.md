@@ -30,4 +30,8 @@ Tracks score and question index
 
 
 ## Sample Video
-https://github.com/kajalrajput18/Simple-Quiz/blob/8c61c8453b9b2056b714a76db5027ee0c4e2a34f/SampleVideo.mp4
+
+
+https://github.com/user-attachments/assets/0d11deb3-40cf-427d-8f55-5657cfa4fc65
+
+
